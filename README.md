@@ -2,6 +2,4 @@
 
 This repo is for issues with [Lattice](http://lattice.videovillage.co).
 
-### Don't have Lattice?
-
 [![Lattice](lattice.png)](http://lattice.videovillage.co)
